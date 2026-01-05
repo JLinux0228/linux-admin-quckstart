@@ -12,3 +12,10 @@ Clone the repo:
 ```bash
 git clone https://github.com/YOUR-USERNAME/linux-admin-quickstart.git
 cd linux-admin-quickstart
+
+## Roadmap
+- [x] Initial project structure
+- [x] System health check script
+- [ ] User onboarding automation
+- [ ] Backup and log rotation script
+- [ ] Firewall and SELinux references
